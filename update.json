@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "0.6.0",
+  "versionCode": 10,
+  "versionName": "0.7.3",
   "apkUrl": "https://github.com/kirtan05/land-records-releases/releases/latest/download/land-records.apk",
-  "notes": "Base release."
+  "notes": "Valetva cascade now fills correctly (Gujarati spelling folds) and the form can never freeze — it times out cleanly. Your saved records are kept."
 }
