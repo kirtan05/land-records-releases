@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "0.8.1",
+  "versionCode": 13,
+  "versionName": "0.8.2",
   "apkUrl": "https://github.com/kirtan05/land-records-releases/releases/latest/download/land-records.apk",
-  "notes": "New: mark records with colours (now 6, and you can give each colour your own name), then Send all or Print everything of one colour together — as one PDF, separate files, or a zip. Added Bhalej, Jol and Karamsad survey lists to the picker. Fixes: records that said \"can't open\" now open; a paiki survey (e.g. 174/p2) could fetch the wrong one — fixed; and a proper filename when you share from inside the PDF viewer. Your saved records are kept."
+  "notes": "Fixes a case that could appear more than once — the same case listed under several survey numbers now shows only once, and your existing records clean up automatically. Also: \"All cases · 1 code\" now asks for confirmation before re-downloading when cases are already saved. Your saved records are kept."
 }
