@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "0.8.2",
+  "versionCode": 14,
+  "versionName": "0.8.3",
   "apkUrl": "https://github.com/kirtan05/land-records-releases/releases/latest/download/land-records.apk",
-  "notes": "Fixes a case that could appear more than once — the same case listed under several survey numbers now shows only once, and your existing records clean up automatically. Also: \"All cases · 1 code\" now asks for confirmation before re-downloading when cases are already saved. Your saved records are kept."
+  "notes": "Fix: \"All cases · 1 code\" → Re-fetch now actually re-runs every survey. It was skipping surveys that had already been checked, so a re-fetch did nothing. Your saved records are kept."
 }
