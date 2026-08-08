@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "0.7.3",
+  "versionCode": 12,
+  "versionName": "0.8.1",
   "apkUrl": "https://github.com/kirtan05/land-records-releases/releases/latest/download/land-records.apk",
-  "notes": "Valetva cascade now fills correctly (Gujarati spelling folds) and the form can never freeze — it times out cleanly. Your saved records are kept."
+  "notes": "New: mark records with colours (now 6, and you can give each colour your own name), then Send all or Print everything of one colour together — as one PDF, separate files, or a zip. Added Bhalej, Jol and Karamsad survey lists to the picker. Fixes: records that said \"can't open\" now open; a paiki survey (e.g. 174/p2) could fetch the wrong one — fixed; and a proper filename when you share from inside the PDF viewer. Your saved records are kept."
 }
