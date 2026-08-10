@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "0.9.0",
+  "versionCode": 21,
+  "versionName": "0.9.1",
   "apkUrl": "https://github.com/kirtan05/land-records-releases/releases/latest/download/land-records.apk",
-  "notes": "New — Village maps. Every village in your library now shows a small map symbol next to its name: tap it to open that village's official government map, showing every survey number, the bordering villages, the roads and the Gamtal. There is also a new Maps button at the top of the screen to look up any village in Gujarat by district and taluka. Your saved records are kept."
+  "notes": "One village, one card. If a village had been saved twice — once with its Gujarati name and once with its English name — the app now recognises it as the same place and shows a single card, moving all its saved documents into one folder. Village maps now also open for villages named in Gujarati. Your saved records are kept."
 }
