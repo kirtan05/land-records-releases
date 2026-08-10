@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "0.8.4",
+  "versionCode": 16,
+  "versionName": "0.8.5",
   "apkUrl": "https://github.com/kirtan05/land-records-releases/releases/latest/download/land-records.apk",
-  "notes": "Fixes duplicate village cards — adding a village you already have no longer makes a second card, and any duplicates you already had are merged automatically. New: long-press a village to remove it. Added Salun Talpad and Nes survey lists to the picker. Your saved records are kept."
+  "notes": "Big one: Add a village straight from AnyRoR — pick district, taluka, village and survey live on the site, no setup or waiting for us. iRCMS now works for Nadiad-area villages, and old VF-7/12 lets you choose the matching old survey number. Re-adding a village no longer makes a duplicate (existing duplicates merge automatically); long-press a village to remove it. Report-a-problem now carries saved logs. Your records are kept."
 }
