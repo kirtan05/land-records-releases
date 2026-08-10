@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "0.9.1",
+  "versionCode": 22,
+  "versionName": "0.10.0",
   "apkUrl": "https://github.com/kirtan05/land-records-releases/releases/latest/download/land-records.apk",
-  "notes": "One village, one card. If a village had been saved twice — once with its Gujarati name and once with its English name — the app now recognises it as the same place and shows a single card, moving all its saved documents into one folder. Village maps now also open for villages named in Gujarati. Your saved records are kept."
+  "notes": "Jantri land rates. Every survey number in Anand and Kheda now shows the government (jantri) rate for that land — per square metre and per acre, with the land type and whether the parcel is on a highway or district road. Where the app knows the parcel's area, it also shows the total government value. Rates are the ASR-2011 figures with the 2023 doubling applied; this is the stamp-duty rate, not a market price.\n\nArea now switches units: tap the area to move between hectare-are-sq.m, acre, vigha, guntha and square metres.\n\nTotal area and આકાર are now saved for every record. Older records fill these in when you tap Re-generate PDF — no CAPTCHA needed."
 }
