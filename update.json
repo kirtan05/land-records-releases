@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "0.8.8",
+  "versionCode": 20,
+  "versionName": "0.9.0",
   "apkUrl": "https://github.com/kirtan05/land-records-releases/releases/latest/download/land-records.apk",
-  "notes": "New — Entries (નોંધ): when you fetch an Integrated survey record, the app now also captures the scanned handwritten mutation entries (shown in red on the government site). Open them from the new નોંધ / Entries button on the Integrated card — view, colour-mark, or share any of them. The red entry numbers also print bold in the survey PDF so they show on a black-and-white print. Also: a survey number already in a village won't be added twice, and Back now needs a double-press to leave a fetch (a stray tap won't interrupt it). Your saved records are kept."
+  "notes": "New — Village maps. Every village in your library now shows a small map symbol next to its name: tap it to open that village's official government map, showing every survey number, the bordering villages, the roads and the Gamtal. There is also a new Maps button at the top of the screen to look up any village in Gujarat by district and taluka. Your saved records are kept."
 }
