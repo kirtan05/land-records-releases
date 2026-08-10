@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "0.8.5",
+  "versionCode": 17,
+  "versionName": "0.8.6",
   "apkUrl": "https://github.com/kirtan05/land-records-releases/releases/latest/download/land-records.apk",
-  "notes": "Big one: Add a village straight from AnyRoR — pick district, taluka, village and survey live on the site, no setup or waiting for us. iRCMS now works for Nadiad-area villages, and old VF-7/12 lets you choose the matching old survey number. Re-adding a village no longer makes a duplicate (existing duplicates merge automatically); long-press a village to remove it. Report-a-problem now carries saved logs. Your records are kept."
+  "notes": "Long-press a survey number to remove it (just like removing a village). And if a fetch ever gets stuck, the Back button now gets you out instead of having to close the app. Your saved records are kept."
 }
