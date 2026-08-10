@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "0.8.6",
+  "versionCode": 18,
+  "versionName": "0.8.7",
   "apkUrl": "https://github.com/kirtan05/land-records-releases/releases/latest/download/land-records.apk",
-  "notes": "Long-press a survey number to remove it (just like removing a village). And if a fetch ever gets stuck, the Back button now gets you out instead of having to close the app. Your saved records are kept."
+  "notes": "You can now colour-mark individual VF-7/12 scans and iRCMS cases (not just whole records) and send or print them by colour from the Marked screen. Also: the Back button won't interrupt a fetch or the survey picker by accident anymore — it only lets you exit when a page is genuinely stuck. Your saved records are kept."
 }
