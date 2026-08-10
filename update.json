@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "0.8.7",
+  "versionCode": 19,
+  "versionName": "0.8.8",
   "apkUrl": "https://github.com/kirtan05/land-records-releases/releases/latest/download/land-records.apk",
-  "notes": "You can now colour-mark individual VF-7/12 scans and iRCMS cases (not just whole records) and send or print them by colour from the Marked screen. Also: the Back button won't interrupt a fetch or the survey picker by accident anymore — it only lets you exit when a page is genuinely stuck. Your saved records are kept."
+  "notes": "New — Entries (નોંધ): when you fetch an Integrated survey record, the app now also captures the scanned handwritten mutation entries (shown in red on the government site). Open them from the new નોંધ / Entries button on the Integrated card — view, colour-mark, or share any of them. The red entry numbers also print bold in the survey PDF so they show on a black-and-white print. Also: a survey number already in a village won't be added twice, and Back now needs a double-press to leave a fetch (a stray tap won't interrupt it). Your saved records are kept."
 }
