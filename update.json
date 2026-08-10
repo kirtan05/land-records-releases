@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "0.8.3",
+  "versionCode": 15,
+  "versionName": "0.8.4",
   "apkUrl": "https://github.com/kirtan05/land-records-releases/releases/latest/download/land-records.apk",
-  "notes": "Fix: \"All cases · 1 code\" → Re-fetch now actually re-runs every survey. It was skipping surveys that had already been checked, so a re-fetch did nothing. Your saved records are kept."
+  "notes": "Fixes duplicate village cards — adding a village you already have no longer makes a second card, and any duplicates you already had are merged automatically. New: long-press a village to remove it. Added Salun Talpad and Nes survey lists to the picker. Your saved records are kept."
 }
