@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "0.12.0",
+  "versionCode": 25,
+  "versionName": "0.12.1",
   "apkUrl": "https://github.com/kirtan05/land-records-releases/releases/latest/download/land-records.apk",
-  "notes": "Auto-fetch in the background: add a survey and it pulls the integrated 7/12, VF-6 entries, deeds, old scanned 7/12, and iRCMS cases on its own. New Fetch-status screen (top bar) shows live progress with a timer. On 7/12 scans you can now choose which old survey numbers to keep. Language moved into Settings."
+  "notes": "Fix: some integrated survey records were wrongly shown as 'not available'. They now retry properly. If a survey shows not-available after updating, open Fetch status (top bar) and tap 'Re-fetch all' — nothing was lost, it just re-pulls them."
 }
