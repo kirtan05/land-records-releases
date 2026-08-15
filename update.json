@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "0.12.1",
+  "versionCode": 26,
+  "versionName": "0.13.0",
   "apkUrl": "https://github.com/kirtan05/land-records-releases/releases/latest/download/land-records.apk",
-  "notes": "Fix: some integrated survey records were wrongly shown as 'not available'. They now retry properly. If a survey shows not-available after updating, open Fetch status (top bar) and tap 'Re-fetch all' — nothing was lost, it just re-pulls them."
+  "notes": "v0.13.0 — INTEGRATED 'not available' bug fixed + auto-repair of wrongly-hidden records; VF-7/12 old-survey keep/remove/undo with sticky deletions; place/survey sync parents + colour-mark sync; single-session AnyRoR fetch (faster queue); on-site GPS + geo-tagged photos."
 }
